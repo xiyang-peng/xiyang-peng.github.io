@@ -1,2 +1,2 @@
 # README
-Hompage of Xingxun Jiang
+Hompage of Xiyang Peng
